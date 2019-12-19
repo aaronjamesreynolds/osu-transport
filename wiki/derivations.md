@@ -10,7 +10,7 @@ Assume D is constant in space and <img src="https://tex.s2cms.ru/svg/%5Cnabla%5E
 
 <img src="https://tex.s2cms.ru/svg/%5Cfrac%7B1%7D%7Bv%7D%5Cfrac%7B%5Cpartial%20%5Cphi%7D%7B%5Cpartial%20t%7D%20%2B%20DB_g%5E2%5Cphi%20%2B%20%5CSigma_a%5Cphi%20%3D%20%5Cnu%20%5CSigma_f(1-%5Cbeta)%5Cphi%2B%5Csum_%7Bi%3D1%7D%5E%7B6%7D%5Clambda_i%20C_i" alt="\frac{1}{v}\frac{\partial \phi}{\partial t} + DB_g^2\phi + \Sigma_a\phi = \nu \Sigma_f(1-\beta)\phi+\sum_{i=1}^{6}\lambda_i C_i" />
 
-Assume separability $\phi(r,t) = vn(t)\psi(r)$ and $C_i(r,t) = C_i(t)\psi(r)$
+Assume separability <img src="https://tex.s2cms.ru/svg/%5Cphi(r%2Ct)%20%3D%20vn(t)%5Cpsi(r)" alt="\phi(r,t) = vn(t)\psi(r)" /> and <img src="https://tex.s2cms.ru/svg/C_i(r%2Ct)%20%3D%20C_i(t)%5Cpsi(r)" alt="C_i(r,t) = C_i(t)\psi(r)" />
 
 <img src="https://tex.s2cms.ru/svg/%5Cfrac%7B1%7D%7Bv%7D%5Cfrac%7B%5Cpartial%7D%7B%5Cpartial%20t%7Dvn(t)%5Cpsi(r)%20%2B%20DB_g%5E2%20vn(t)%5Cpsi(r)%20%2B%20%5CSigma_avn(t)%5Cpsi(r)%20%3D%20%5Cnu%20%5CSigma_f(1-%5Cbeta)vn(t)%5Cpsi(r)%20%2B%5Csum_%7Bi%3D1%7D%5E%7B6%7D%5Clambda_i%20C_i(t)%5Cpsi(r)" alt="\frac{1}{v}\frac{\partial}{\partial t}vn(t)\psi(r) + DB_g^2 vn(t)\psi(r) + \Sigma_avn(t)\psi(r) = \nu \Sigma_f(1-\beta)vn(t)\psi(r) +\sum_{i=1}^{6}\lambda_i C_i(t)\psi(r)" />
 
