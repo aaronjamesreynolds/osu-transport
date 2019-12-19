@@ -27,6 +27,7 @@ Pull out <img src="https://tex.s2cms.ru/svg/%5CSigma_a" alt="\Sigma_a" />. <img 
 " />
 
 The probability of non-leakage is <img src="https://tex.s2cms.ru/svg/P_%7BNL%7D%20%3D%20%5Cfrac%7B1%7D%7BL%5E2B_g%5E2%20%2B%201%7D" alt="P_{NL} = \frac{1}{L^2B_g^2 + 1}" />
+
 <img src="https://tex.s2cms.ru/svg/%0A%5Cfrac%7B%5Cpartial%7D%7B%5Cpartial%20t%7Dn(t)%3D%20-v%5CSigma_a%5B%5Cfrac%7B1%7D%7BP_%7BNL%7D%7D%20-%5Cfrac%7B%5Cnu%20%5CSigma_f%7D%7B%5CSigma_a%7D(1-%5Cbeta)%5Dn(t)%2B%5Csum_%7Bi%3D1%7D%5E%7B6%7D%5Clambda_i%20C_i(t)%0A" alt="
 \frac{\partial}{\partial t}n(t)= -v\Sigma_a[\frac{1}{P_{NL}} -\frac{\nu \Sigma_f}{\Sigma_a}(1-\beta)]n(t)+\sum_{i=1}^{6}\lambda_i C_i(t)
 " />
