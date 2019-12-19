@@ -87,3 +87,4 @@ You can find those classics, and others, at the link below.
  
 * [Derivations](derivations.md)
 * [PRKEs](prke.html)
+* [PRKEs jupyter notebook](prke.ipynb)
