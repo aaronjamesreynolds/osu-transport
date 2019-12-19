@@ -81,5 +81,8 @@ There are *countless* text editors out there. It's really just finding which one
   - Open source.
 
 ## Neutronics Derivations
+Looking for some light reading? How about snuggling up to a derivation of the point reactor kinetics equations, or the step characteristics method?
 
-[a relative link](derivations.md)
+You can find those classics, and others, at the link below.
+ 
+* [Derivations](derivations.md)
