@@ -79,3 +79,7 @@ There are *countless* text editors out there. It's really just finding which one
 ## Visualization Tools
 * [VisIt](https://wci.llnl.gov/simulation/computer-codes/visit/)
   - Open source.
+
+## Neutronics Derivations
+
+[a relative link](derivations.md)
