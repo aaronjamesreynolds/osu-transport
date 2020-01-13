@@ -24,7 +24,21 @@ In one branch of MSR concepts, fissile fuel is mixed throughout a circulating mo
 creating a fluid-fuel mixture. In a fluid-fuel system, delayed neutron precursors can move from the location
 of the initiating fission event before decaying. This can significantly affect the criticality and design of a system. Current modeling software is oriented towards solid-fuel designs and cannot properly model this phenomenon. Similarly, current modeling software cannot properly model on-line refueling and fission-product removal. This motivates the development of multiscale, multiphysics computational methods and tools which can.
 
-My research develops such tools, facilitated by the the use of nodal quasi-diffusion methods.
+My research aims to develop such tools, facilitated by the the use of quasi-diffusion methods. 
+
+Additionally, I have spent the summers of 2018 and 2019 at Oak Ridge National Lab. 
+While there I worked in the Consortium for the Advanced Simulation of Light Water Reactors (CASL) developing on the Virtual Environment for Reactor Applications (VERA). 
+Specifically, my work involved extending the fuel performance modeling capabilities of VERA to include some accident tolerant fuel materials and enabling control rod depletion in MPACT.  
+
+## Published and Presented Work
+
+Reynolds, Aaron J., Palmer, Todd S. 
+"A Projective Method for Solving the Single-Group Space-Time Neutron Kinetics Equations with Precursor Advection." 
+Conference paper and presentation for M&C 2019 organized by the American Nuclear Society.
+
+Reynolds, Aaron J., Stimpson, Shane G., Gardner, Russell. 
+"Initial Accident Tolerant Fuel/Cladding Extensions to the VERA to Bison Offline Coupling." 
+Conference paper and presentation for Global/Top Fuel 2019 organized by the American Nuclear Society.
 
 ## Other Interests
 
